@@ -10,7 +10,7 @@ layout: doc
 <div class="info-grid">
   <div class="info-card reveal-up">
     <span class="label">Full Name</span>
-    <strong>Ameer Basha</strong>
+    <strong>Ameer Basha J</strong>
   </div>
   <div class="info-card reveal-up">
     <span class="label">Date of Birth</span>
