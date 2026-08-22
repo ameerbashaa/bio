@@ -40,12 +40,6 @@ import AgeDisplay from './AgeDisplay.vue'
           <div class="profile-badge">Single • Muslim</div>
         </div>
 
-        <div class="gallery-showcase">
-          <img :src="photo1" alt="Ameer Basha photo" />
-          <img :src="photo2" alt="Ameer Basha portrait" />
-          <img :src="photo3" alt="Ameer Basha on family occasion" />
-        </div>
-
         <ul class="mini-list">
           <li><span>Gender</span><strong>Male</strong></li>
           <li><span>Born</span><strong>16 Nov 1997</strong></li>
