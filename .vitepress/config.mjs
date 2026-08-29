@@ -8,8 +8,8 @@ export default defineConfig({
   head: [
     ['meta', { name: 'theme-color', content: '#b73c5d' }],
     ['link', { rel: 'icon', href: '/bio/favicon.svg' }],
-    ['meta', { property: 'og:title', content: 'Ameer Basha J | Marriage Biodata' }],
-    ['meta', { property: 'og:description', content: 'A refined biodata profile presented with VitePress and modern animation.' }]
+    ['meta', { property: 'og:title', content: 'Ameer Basha J | Biodata' }],
+    ['meta', { property: 'og:description', content: 'May Allah bless this union with love, faith, and understanding' }]
   ],
   themeConfig: {
     nav: [
