@@ -14,7 +14,7 @@ import AgeDisplay from './AgeDisplay.vue'
     <div class="hero-grid">
       <div class="hero-copy reveal-up">
         <div class="mini-brand">بِسْمِ ٱللّٰهِ</div>
-        <p class="eyebrow">Marriage Biodata</p>
+        
         <h1>Ameer Basha J</h1>
         <p class="subtitle">
           Hi, I am an ambitious, warm and ambiverted individual with a calm and amiable nature.

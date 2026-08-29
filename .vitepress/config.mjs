@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Ameer Basha | Marriage Biodata',
+  title: 'Ameer Basha J',
   description: 'Marriage biodata of Ameer Basha J, an educated and family-oriented Muslim groom from Bengaluru.',
   base: '/bio/',
   cleanUrls: true,

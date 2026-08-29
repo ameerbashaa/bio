@@ -14,7 +14,7 @@ const galleryImages = [
   <section class="gallery-section reveal-up">
     <div class="section-heading">
       <p class="eyebrow">Gallery</p>
-      <h2>Moments to remember</h2>
+      
     </div>
 
     <div class="gallery-grid">

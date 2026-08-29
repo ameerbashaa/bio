@@ -1,5 +1,5 @@
 ---
-title: Ameer Basha J | Marriage Biodata
+title: Ameer Basha J
 layout: doc
 ---
 
