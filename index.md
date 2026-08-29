@@ -30,12 +30,6 @@ layout: doc
   </div>
 </div>
 
-<p class="section-intro">
-  I am a single, Muslim man with a humble family background, regular in salah, and a
-  sincere outlook toward life, work, and marriage. I believe in an honest, respectful, and faith-led
-  life partnership rooted in mercy and understanding.
-</p>
-
 <PhotoGallery />
 
 ## Family Details {#family}

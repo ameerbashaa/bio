@@ -17,8 +17,9 @@ import AgeDisplay from './AgeDisplay.vue'
         <p class="eyebrow">Marriage Biodata</p>
         <h1>Ameer Basha J</h1>
         <p class="subtitle">
-          A respectful, family-oriented Muslim groom from Bengaluru seeking a compatible life partner
-          who shares values, faith, and a warm, happy future based on love, trust, and barakah.
+          Hi, I am an ambitious, warm and ambiverted individual with a calm and amiable nature.
+          Looking for a compatible life partner who values mutual respect, understands family values and is ready build
+          a joyful journey together filled with Love, Trust and shared Adventures.
         </p>
 
         <div class="hero-badges">
