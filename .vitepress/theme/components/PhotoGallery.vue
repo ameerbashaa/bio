@@ -1,6 +1,6 @@
 <script setup>
 import photo1 from '../../../IMG_3078.JPG.jpeg'
-import photo2 from '../../../IMG_3080.JPG.jpeg'
+import photo2 from '../../../IMG_1504.JPG.jpeg'
 import photo3 from '../../../WhatsApp Image 2026-08-22 at 2.08.37 PM.jpeg'
 
 const galleryImages = [
