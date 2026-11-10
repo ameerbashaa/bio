@@ -2,10 +2,11 @@
 import photo1 from '../../../IMG_3078.JPG.jpeg'
 import photo2 from '../../../IMG_1504.JPG.jpeg'
 import photo3 from '../../../WhatsApp Image 2026-08-22 at 2.08.37 PM.jpeg'
+import photo4 from '../../../IMG-3094.JPG.jpeg'
 
 const galleryImages = [
-  { src: photo1, alt: 'Ameer Basha portrait', label: '' },
-  { src: photo2, alt: 'Ameer Basha smiling', label: '' },
+  { src: photo2, alt: 'Ameer Basha portrait', label: '' },
+  { src: photo4, alt: 'Ameer Basha smiling', label: '' },
   { src: photo3, alt: 'Ameer Basha family moment', label: '' }
 ]
 </script>

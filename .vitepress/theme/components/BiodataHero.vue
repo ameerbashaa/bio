@@ -3,6 +3,8 @@ import photo2 from '../../../IMG_3078.JPG.jpeg'
 import photo4 from '../../../IMG_1504.JPG.jpeg'
 import photo3 from '../../../WhatsApp Image 2026-08-22 at 2.08.37 PM.jpeg'
 import photo1 from '../../../IMG_3080.JPG.jpeg'
+import photo5 from '../../../IMG-3091.JPG.jpeg'
+import photo6 from '../../../IMG-3092.JPG.jpeg'
 import AgeDisplay from './AgeDisplay.vue'
 </script>
 
@@ -37,8 +39,8 @@ import AgeDisplay from './AgeDisplay.vue'
 
       <div class="profile-card reveal-up">
         <div class="photo-stack">
-          <img :src="photo2" alt="Ameer Basha portrait" class="main-photo" />
-          <img :src="photo1" alt="Ameer Basha smiling" class="floating-photo photo-top" />
+          <img :src="photo6" alt="Ameer Basha portrait" class="main-photo" />
+          <img :src="photo5" alt="Ameer Basha smiling" class="floating-photo photo-top" />
           <div class="profile-badge">Single • Muslim</div>
         </div>
 
